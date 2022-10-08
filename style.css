@@ -1,0 +1,28 @@
+
+body
+{
+background: url("letschatweeb.png");
+background-size: cover;
+}
+#logo1
+{
+    width : 50px;
+    height : 50px;
+    float : right;
+}
+#logout
+{
+    background-color: rgb(21, 146, 241);
+    font-size: large;
+    color : white;
+}
+h1{
+    color : rgb(18, 133, 227);
+    font-size: x-large;
+}
+#add_room_button
+{
+    color : white;
+    background-color: rgb(12, 117, 202);
+    font-size: larger;
+}
